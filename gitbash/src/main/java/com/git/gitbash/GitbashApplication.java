@@ -8,6 +8,9 @@ public class GitbashApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitbashApplication.class, args);
+		System.out.println("hi");
 	}
 //
+
+
 }
